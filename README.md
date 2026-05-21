@@ -189,15 +189,3 @@ rm -f ~/.claude/agents/market-*.md
 ```
 
 ---
-
-## Learn More
-
-Want to learn how to build a marketing agency powered by AI tools like this?
-
-**[Join the AI Workshop Community](https://www.skool.com/aiworkshop)** — Learn AI automations, vibe coding, and how to build AI-powered services for clients.
-
----
-
-## License
-
-MIT License — see [LICENSE](LICENSE) for details.
