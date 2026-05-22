@@ -37,14 +37,14 @@ Full report saved to MARKETING-AUDIT.md
 ### One-Command Install
 
 ```bash
-curl -fsSL https://raw.githubusercontent.com/zubair-trabzada/ai-marketing-claude/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/vikashinnamuri/AI_Claude_Marketing/main/install.sh | bash
 ```
 
 ### Manual Install
 
 ```bash
-git clone https://github.com/zubair-trabzada/ai-marketing-claude.git
-cd ai-marketing-claude
+git clone https://github.com/vikashinnamuri/AI_Claude_Marketing.git
+cd AI_Claude_Marketing
 ./install.sh
 ```
 
